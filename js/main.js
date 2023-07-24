@@ -26,7 +26,7 @@ let txtResultado = document.getElementById("txtResultado");
 
 //deaclarar variables
 let operador = " ";
-let resultado = "";
+let resultado = 0;
 
 
 // EVENTOS a los botones 
